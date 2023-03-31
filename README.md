@@ -3,4 +3,4 @@ A social network analysis side project repo. This is currently not all that popu
 
 
 ## Harry Potter 
-Combined spaCy's Named Entity Recognition (NER) to find characters in the text (nodes) and find relationships via co-occurrence within each sentence (edges). Code and Data found within respective folders. 
+Combined [spaCy's](https://spacy.io/) Named Entity Recognition (NER) to find characters in the text (nodes) and find relationships via co-occurrence within each sentence (edges). Code and Data found within respective folders. 
